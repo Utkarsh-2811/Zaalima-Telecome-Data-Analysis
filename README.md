@@ -8,6 +8,7 @@ The main objective is to identify the reasons behind customer churn and help the
 
 # 🗂️ Dataset
 File Used: https://github.com/Utkarsh-2811/Zaalima-Telecome-Data-Analysis/blob/main/Telecom-Customer-Churn.csv
+
 Details: The dataset contains information about customer demographics, account details, services subscribed (like internet, streaming, phone service), and whether the customer churned or not.
 
 
