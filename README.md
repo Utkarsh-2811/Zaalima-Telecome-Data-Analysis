@@ -1,10 +1,10 @@
 # Zaalima-Telecome-Data-Analysis
 
 # 📌 Project Overview
-This project explores customer churn in a telecom company using data analysis and visualization techniques. It combines a Power BI dashboard and Python-based data science methods to uncover key churn drivers and present actionable insights.
+This project focuses on analyzing customer churn in a telecom company using data-driven insights. It explores customer behavior and patterns to identify why users leave the service. A Power BI dashboard and Python notebook are used for visualization and analysis. The goal is to enhance customer retention by understanding churn trends. The final output includes insights, recommendations, and future strategies.
 
 # 🎯 Objective
-The main objective is to identify the reasons behind customer churn and help the telecom company reduce it by understanding patterns and trends in customer behavior.
+The objective is to identify the key factors causing customer churn and help the company reduce churn rates. It also aims to segment high-risk customers and predict churn probability. Insights are used to support strategic decision-making.
 
 # 🗂️ Dataset
 - File Used: https://github.com/Utkarsh-2811/Zaalima-Telecome-Data-Analysis/blob/main/Telecom-Customer-Churn.csv
@@ -48,6 +48,6 @@ Details: The dataset contains information about customer demographics, account d
 - Integrate additional datasets like customer feedback or call logs.
 
 # 📌 Conclusion
-This project effectively reveals actionable insights to reduce churn in the telecom sector. Through data analysis, visual storytelling, and strategic recommendations, it equips stakeholders to make informed decisions and improve customer retention.
+This project helps understand and reduce customer churn in the telecom sector. By analyzing behavior and service usage, key churn drivers were identified. The Power BI dashboard allows stakeholders to monitor churn risks visually. Insights from this project can improve retention strategies. Future enhancements will strengthen churn prediction and prevention.
 
 
