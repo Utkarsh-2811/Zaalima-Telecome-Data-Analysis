@@ -11,6 +11,15 @@ File Used: https://github.com/Utkarsh-2811/Zaalima-Telecome-Data-Analysis/blob/m
 
 Details: The dataset contains information about customer demographics, account details, services subscribed (like internet, streaming, phone service), and whether the customer churned or not.
 
+🔄 Steps & Workflow
+Data Cleaning: Handled missing values, corrected data types, and encoded categorical variables.
+
+Exploratory Data Analysis (EDA): Used Python notebooks to visualize churn patterns, service usage, and customer demographics.
+
+Dashboard Creation: Created an interactive Power BI dashboard (https://github.com/Utkarsh-2811/Zaalima-Telecome-Data-Analysis/blob/main/Telecome.pbi) to visualize KPIs and trends.
+
+Modeling & Analysis: Applied statistical insights to find key correlations and churn-driving factors.
+
 
 
 
